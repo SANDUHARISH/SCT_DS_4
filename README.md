@@ -35,6 +35,6 @@ This project analyzes traffic accident data to uncover patterns related to **roa
 
 - Format: CSV
 - Columns: `weather`, `road_condition`, `time`, `latitude`, `longitude`, `severity`, etc.
-- Source: [Specify if UCI, Kaggle, or custom]
+- Source: Kaggle
 
 
